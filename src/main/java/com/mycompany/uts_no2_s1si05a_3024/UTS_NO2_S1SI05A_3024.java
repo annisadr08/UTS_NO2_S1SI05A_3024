@@ -28,15 +28,15 @@ public class UTS_NO2_S1SI05A_3024 {
             
             ce.nama_3024 = "Dwi";
             ce.nip_3024 = 1002;
-            ce.gaji_3024 = 3000000;
-            ce.komisi_3024 = 250000;
+            ce.gaji_pokok_3024 = 3000000;
+            ce.komisi_3024 = 50000;
             ce.penjualan_3024 = 25;
             
             pp.nama_3024 = "Rahmawati";
             pp.nip_3024 = 1003;
-            pp.gaji_3024 = 2800000;
-            pp.komisi_3024 = 300000;
-            pp.proyek_3024 = 7;
+            pp.gaji_pokok_3024 = 3500000;
+            pp.komisi_3024 = 50000;
+            pp.proyek_3024 = 10;
             
             se.tampilDataSalariedEmployee_3024();
             System.out.println("");
